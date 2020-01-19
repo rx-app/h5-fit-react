@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  font-size: 1rem;
+}
+.App code{
+  font-size: 1rem;
 }
 
 .App-logo {
